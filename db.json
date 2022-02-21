@@ -179,30 +179,6 @@
       "id": "424934",
       "type": "rent",
       "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000ML0044631160305213E01_DXXX.jpg"
-    },
-    {
-      "price": 200000,
-      "id": "424935",
-      "type": "buy",
-      "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000MR0044631150503675E02_DXXX.jpg"
-    },
-    {
-      "price": 450000,
-      "id": "424936",
-      "type": "buy",
-      "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000ML0044631150305212E01_DXXX.jpg"
-    },
-    {
-      "price": 4000000,
-      "id": "424937",
-      "type": "rent",
-      "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000MR0044631140503674E01_DXXX.jpg"
-    },
-    {
-      "price": 9000000,
-      "id": "424938",
-      "type": "rent",
-      "img_src": "http://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000ML0044631140305211E02_DXXX.jpg"
     }
   ]
 }
